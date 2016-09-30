@@ -1,0 +1,8 @@
+inimage,s,a,,,,'images to combine'
+outimage,s,a,,,,'combined image'
+shiftfile,s,a,,,,'shiftfile from imcombine'
+mask,b,h,yes,,,'use bad pixel file?'
+thresh,r,h,0.08,,,'detection threshold'
+box,i,h,10,,,'smothing box size'
+list,*struct,h,''
+mode,s,h,'al'

@@ -1,0 +1,3275 @@
+sh: convert: command not found
+[1M> 
+[1A----- SCAMP 1.9.0 started on 2011-01-08 at 18:57:34 with 12 threads
+
+[1M> 
+[1A----- 136 inputs:
+[1M> Examining Catalog ss_quick_1174550s.ldac
+[1A[1M> Examining Catalog ss_quick_1174551s.ldac
+[1A[1M> Examining Catalog ss_quick_1174552s.ldac
+[1A[1M> Examining Catalog ss_quick_1174553s.ldac
+[1A[1M> Examining Catalog ss_quick_1174560s.ldac
+[1A[1M> Examining Catalog ss_quick_1174561s.ldac
+[1A[1M> Examining Catalog ss_quick_1174562s.ldac
+[1A[1M> Examining Catalog ss_quick_1174563s.ldac
+[1A[1M> Examining Catalog ss_quick_1174570s.ldac
+[1A[1M> Examining Catalog ss_quick_1174571s.ldac
+[1A[1M> Examining Catalog ss_quick_1174572s.ldac
+[1A[1M> Examining Catalog ss_quick_1174573s.ldac
+[1A[1M> Examining Catalog ss_quick_1174580s.ldac
+[1A[1M> Examining Catalog ss_quick_1174581s.ldac
+[1A[1M> Examining Catalog ss_quick_1174582s.ldac
+[1A[1M> Examining Catalog ss_quick_1174583s.ldac
+[1A[1M> Examining Catalog ss_quick_1174590s.ldac
+[1A[1M> Examining Catalog ss_quick_1174591s.ldac
+[1A[1M> Examining Catalog ss_quick_1174592s.ldac
+[1A[1M> Examining Catalog ss_quick_1174593s.ldac
+[1Ass_quick_1174550s.ldac:  "t1v10              "  EXTERN. HEADER   4 sets     570 detections
+[1M> Examining Catalog ss_quick_1174600s.ldac
+[1A[1M> Examining Catalog ss_quick_1174601s.ldac
+[1Ass_quick_1174551s.ldac:  "t1v10              "  EXTERN. HEADER   4 sets     611 detections
+[1M> Examining Catalog ss_quick_1174602s.ldac
+[1Ass_quick_1174552s.ldac:  "t1v10              "  EXTERN. HEADER   4 sets     618 detections
+ss_quick_1174553s.ldac:  "t1v10              "  EXTERN. HEADER   4 sets     665 detections
+ss_quick_1174560s.ldac:  "t1v11              "  EXTERN. HEADER   4 sets     703 detections
+ss_quick_1174561s.ldac:  "t1v11              "  EXTERN. HEADER   4 sets     660 detections
+ss_quick_1174562s.ldac:  "t1v11              "  EXTERN. HEADER   4 sets     558 detections
+ss_quick_1174563s.ldac:  "t1v11              "  EXTERN. HEADER   4 sets     588 detections
+ss_quick_1174570s.ldac:  "t1v12              "  EXTERN. HEADER   4 sets     591 detections
+ss_quick_1174571s.ldac:  "t1v12              "  EXTERN. HEADER   4 sets     564 detections
+ss_quick_1174572s.ldac:  "t1v12              "  EXTERN. HEADER   4 sets     565 detections
+ss_quick_1174573s.ldac:  "t1v12              "  EXTERN. HEADER   4 sets     569 detections
+[1M> Examining Catalog ss_quick_1174603s.ldac
+[1A[1M> Examining Catalog ss_quick_1174610s.ldac
+[1A[1M> Examining Catalog ss_quick_1174611s.ldac
+[1Ass_quick_1174580s.ldac:  "t1v13              "  EXTERN. HEADER   4 sets     547 detections
+[1M> Examining Catalog ss_quick_1174612s.ldac
+[1A[1M> Examining Catalog ss_quick_1174613s.ldac
+[1Ass_quick_1174581s.ldac:  "t1v13              "  EXTERN. HEADER   4 sets     507 detections
+[1M> Examining Catalog ss_quick_1174620s.ldac
+[1A[1M> Examining Catalog ss_quick_1174621s.ldac
+[1A[1M> Examining Catalog ss_quick_1174622s.ldac
+[1Ass_quick_1174582s.ldac:  "t1v13              "  EXTERN. HEADER   4 sets     507 detections
+ss_quick_1174583s.ldac:  "t1v13              "  EXTERN. HEADER   4 sets     520 detections
+ss_quick_1174590s.ldac:  "t1v14              "  EXTERN. HEADER   4 sets     475 detections
+ss_quick_1174591s.ldac:  "t1v14              "  EXTERN. HEADER   4 sets     479 detections
+ss_quick_1174592s.ldac:  "t1v14              "  EXTERN. HEADER   4 sets     497 detections
+ss_quick_1174593s.ldac:  "t1v14              "  EXTERN. HEADER   4 sets     483 detections
+[1M> Examining Catalog ss_quick_1174623s.ldac
+[1A[1M> Examining Catalog ss_quick_1174630s.ldac
+[1A[1M> Examining Catalog ss_quick_1174631s.ldac
+[1Ass_quick_1174600s.ldac:  "t1v15              "  EXTERN. HEADER   4 sets     587 detections
+ss_quick_1174601s.ldac:  "t1v15              "  EXTERN. HEADER   4 sets     587 detections
+ss_quick_1174602s.ldac:  "t1v15              "  EXTERN. HEADER   4 sets     589 detections
+[1M> Examining Catalog ss_quick_1174632s.ldac
+[1Ass_quick_1174603s.ldac:  "t1v15              "  EXTERN. HEADER   4 sets     590 detections
+[1M> Examining Catalog ss_quick_1174633s.ldac
+[1A[1M> Examining Catalog ss_quick_1174650s.ldac
+[1A[1M> Examining Catalog ss_quick_1174651s.ldac
+[1A[1M> Examining Catalog ss_quick_1174652s.ldac
+[1A[1M> Examining Catalog ss_quick_1174653s.ldac
+[1A[1M> Examining Catalog ss_quick_1174655s.ldac
+[1Ass_quick_1174610s.ldac:  "t1v16              "  EXTERN. HEADER   4 sets     543 detections
+ss_quick_1174611s.ldac:  "t1v16              "  EXTERN. HEADER   4 sets     549 detections
+ss_quick_1174612s.ldac:  "t1v16              "  EXTERN. HEADER   4 sets     535 detections
+[1M> Examining Catalog ss_quick_1174656s.ldac
+[1A[1M> Examining Catalog ss_quick_1174657s.ldac
+[1Ass_quick_1174613s.ldac:  "t1v16              "  EXTERN. HEADER   4 sets     598 detections
+ss_quick_1174620s.ldac:  "t1v17              "  EXTERN. HEADER   4 sets     557 detections
+ss_quick_1174621s.ldac:  "t1v17              "  EXTERN. HEADER   4 sets     571 detections
+ss_quick_1174622s.ldac:  "t1v17              "  EXTERN. HEADER   4 sets     561 detections
+ss_quick_1174623s.ldac:  "t1v17              "  EXTERN. HEADER   4 sets     554 detections
+[1M> Examining Catalog ss_quick_1174658s.ldac
+[1A[1M> Examining Catalog ss_quick_1174665s.ldac
+[1Ass_quick_1174630s.ldac:  "t1v18              "  EXTERN. HEADER   4 sets     577 detections
+ss_quick_1174631s.ldac:  "t1v18              "  EXTERN. HEADER   4 sets     487 detections
+[1M> Examining Catalog ss_quick_1174666s.ldac
+[1Ass_quick_1174632s.ldac:  "t1v18              "  EXTERN. HEADER   4 sets     535 detections
+[1M> Examining Catalog ss_quick_1174667s.ldac
+[1Ass_quick_1174633s.ldac:  "t1v18              "  EXTERN. HEADER   4 sets     553 detections
+[1M> Examining Catalog ss_quick_1174668s.ldac
+[1A[1M> Examining Catalog ss_quick_1174675s.ldac
+[1A[1M> Examining Catalog ss_quick_1174676s.ldac
+[1A[1M> Examining Catalog ss_quick_1174677s.ldac
+[1A[1M> Examining Catalog ss_quick_1174678s.ldac
+[1A[1M> Examining Catalog ss_quick_1174685s.ldac
+[1A[1M> Examining Catalog ss_quick_1174686s.ldac
+[1A[1M> Examining Catalog ss_quick_1174687s.ldac
+[1A[1M> Examining Catalog ss_quick_1174688s.ldac
+[1A[1M> Examining Catalog ss_quick_1174694s.ldac
+[1Ass_quick_1174650s.ldac:  "t1v14              "  EXTERN. HEADER   4 sets     518 detections
+ss_quick_1174651s.ldac:  "t1v14              "  EXTERN. HEADER   4 sets     504 detections
+ss_quick_1174652s.ldac:  "t1v14              "  EXTERN. HEADER   4 sets     498 detections
+ss_quick_1174653s.ldac:  "t1v14              "  EXTERN. HEADER   4 sets     484 detections
+ss_quick_1174655s.ldac:  "t1v16              "  EXTERN. HEADER   4 sets     498 detections
+ss_quick_1174656s.ldac:  "t1v16              "  EXTERN. HEADER   4 sets     441 detections
+ss_quick_1174657s.ldac:  "t1v16              "  EXTERN. HEADER   4 sets     379 detections
+ss_quick_1174658s.ldac:  "t1v16              "  EXTERN. HEADER   4 sets     438 detections
+ss_quick_1174665s.ldac:  "t1v1               "  EXTERN. HEADER   4 sets     487 detections
+ss_quick_1174666s.ldac:  "t1v1               "  EXTERN. HEADER   4 sets     488 detections
+[1M> Examining Catalog ss_quick_1174695s.ldac
+[1A[1M> Examining Catalog ss_quick_1174696s.ldac
+[1Ass_quick_1174667s.ldac:  "t1v1               "  EXTERN. HEADER   4 sets     483 detections
+ss_quick_1174668s.ldac:  "t1v1               "  EXTERN. HEADER   4 sets     455 detections
+[1M> Examining Catalog ss_quick_1174697s.ldac
+[1Ass_quick_1174675s.ldac:  "t1v2               "  EXTERN. HEADER   4 sets     470 detections
+[1M> Examining Catalog ss_quick_1174704s.ldac
+[1A[1M> Examining Catalog ss_quick_1174705s.ldac
+[1A[1M> Examining Catalog ss_quick_1174706s.ldac
+[1A[1M> Examining Catalog ss_quick_1174707s.ldac
+[1A[1M> Examining Catalog ss_quick_1174714s.ldac
+[1Ass_quick_1174676s.ldac:  "t1v2               "  EXTERN. HEADER   4 sets     439 detections
+ss_quick_1174677s.ldac:  "t1v2               "  EXTERN. HEADER   4 sets     424 detections
+ss_quick_1174678s.ldac:  "t1v2               "  EXTERN. HEADER   4 sets     471 detections
+[1M> Examining Catalog ss_quick_1174715s.ldac
+[1Ass_quick_1174685s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     417 detections
+[1M> Examining Catalog ss_quick_1174716s.ldac
+[1Ass_quick_1174686s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     400 detections
+[1M> Examining Catalog ss_quick_1174717s.ldac
+[1Ass_quick_1174687s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     403 detections
+ss_quick_1174688s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     437 detections
+[1M> Examining Catalog ss_quick_1174724s.ldac
+[1Ass_quick_1174694s.ldac:  "t1v1               "  EXTERN. HEADER   4 sets     446 detections
+ss_quick_1174695s.ldac:  "t1v1               "  EXTERN. HEADER   4 sets     399 detections
+[1M> Examining Catalog ss_quick_1174725s.ldac
+[1Ass_quick_1174696s.ldac:  "t1v1               "  EXTERN. HEADER   4 sets     433 detections
+[1M> Examining Catalog ss_quick_1174726s.ldac
+[1Ass_quick_1174697s.ldac:  "t1v1               "  EXTERN. HEADER   4 sets     430 detections
+[1M> Examining Catalog ss_quick_1174727s.ldac
+[1A[1M> Examining Catalog ss_quick_1174734s.ldac
+[1A[1M> Examining Catalog ss_quick_1174735s.ldac
+[1A[1M> Examining Catalog ss_quick_1174736s.ldac
+[1A[1M> Examining Catalog ss_quick_1174737s.ldac
+[1A[1M> Examining Catalog ss_quick_1174744s.ldac
+[1Ass_quick_1174704s.ldac:  "t1v2               "  EXTERN. HEADER   4 sets     437 detections
+ss_quick_1174705s.ldac:  "t1v2               "  EXTERN. HEADER   4 sets     412 detections
+ss_quick_1174706s.ldac:  "t1v2               "  EXTERN. HEADER   4 sets     401 detections
+ss_quick_1174707s.ldac:  "t1v2               "  EXTERN. HEADER   4 sets     434 detections
+ss_quick_1174714s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     421 detections
+ss_quick_1174715s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     422 detections
+[1M> Examining Catalog ss_quick_1174745s.ldac
+[1Ass_quick_1174716s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     410 detections
+[1M> Examining Catalog ss_quick_1174746s.ldac
+[1Ass_quick_1174717s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     410 detections
+[1M> Examining Catalog ss_quick_1174747s.ldac
+[1Ass_quick_1174724s.ldac:  "t1v4               "  EXTERN. HEADER   4 sets     427 detections
+[1M> Examining Catalog ss_quick_1174754s.ldac
+[1A[1M> Examining Catalog ss_quick_1174755s.ldac
+[1A[1M> Examining Catalog ss_quick_1174756s.ldac
+[1Ass_quick_1174725s.ldac:  "t1v4               "  EXTERN. HEADER   4 sets     425 detections
+ss_quick_1174726s.ldac:  "t1v4               "  EXTERN. HEADER   4 sets     415 detections
+ss_quick_1174727s.ldac:  "t1v4               "  EXTERN. HEADER   4 sets     431 detections
+[1M> Examining Catalog ss_quick_1174757s.ldac
+[1A[1M> Examining Catalog ss_quick_1174764s.ldac
+[1A[1M> Examining Catalog ss_quick_1174765s.ldac
+[1Ass_quick_1174734s.ldac:  "t1v5               "  EXTERN. HEADER   4 sets     443 detections
+[1M> Examining Catalog ss_quick_1174766s.ldac
+[1A[1M> Examining Catalog ss_quick_1174767s.ldac
+[1Ass_quick_1174735s.ldac:  "t1v5               "  EXTERN. HEADER   4 sets     421 detections
+[1M> Examining Catalog ss_quick_1174774s.ldac
+[1Ass_quick_1174736s.ldac:  "t1v5               "  EXTERN. HEADER   4 sets     421 detections
+ss_quick_1174737s.ldac:  "t1v5               "  EXTERN. HEADER   4 sets     426 detections
+ss_quick_1174744s.ldac:  "t1v6               "  EXTERN. HEADER   4 sets     407 detections
+[1M> Examining Catalog ss_quick_1174775s.ldac
+[1Ass_quick_1174745s.ldac:  "t1v6               "  EXTERN. HEADER   4 sets     390 detections
+ss_quick_1174746s.ldac:  "t1v6               "  EXTERN. HEADER   4 sets     376 detections
+[1M> Examining Catalog ss_quick_1174776s.ldac
+[1Ass_quick_1174747s.ldac:  "t1v6               "  EXTERN. HEADER   4 sets     366 detections
+[1M> Examining Catalog ss_quick_1174777s.ldac
+[1Ass_quick_1174754s.ldac:  "t1v7               "  EXTERN. HEADER   4 sets     384 detections
+[1M> Examining Catalog ss_quick_1174784s.ldac
+[1Ass_quick_1174755s.ldac:  "t1v7               "  EXTERN. HEADER   4 sets     382 detections
+[1M> Examining Catalog ss_quick_1174785s.ldac
+[1Ass_quick_1174756s.ldac:  "t1v7               "  EXTERN. HEADER   4 sets     374 detections
+[1M> Examining Catalog ss_quick_1174786s.ldac
+[1Ass_quick_1174757s.ldac:  "t1v7               "  EXTERN. HEADER   4 sets     399 detections
+[1M> Examining Catalog ss_quick_1174787s.ldac
+[1A[1M> Examining Catalog ss_quick_1174794s.ldac
+[1Ass_quick_1174764s.ldac:  "t1v8               "  EXTERN. HEADER   4 sets     347 detections
+ss_quick_1174765s.ldac:  "t1v8               "  EXTERN. HEADER   4 sets     339 detections
+[1M> Examining Catalog ss_quick_1174795s.ldac
+[1A[1M> Examining Catalog ss_quick_1174796s.ldac
+[1A[1M> Examining Catalog ss_quick_1174797s.ldac
+[1Ass_quick_1174766s.ldac:  "t1v8               "  EXTERN. HEADER   4 sets     343 detections
+ss_quick_1174767s.ldac:  "t1v8               "  EXTERN. HEADER   4 sets     369 detections
+[1M> Examining Catalog ss_quick_1175424s.ldac
+[1Ass_quick_1174774s.ldac:  "t1v9               "  EXTERN. HEADER   4 sets     380 detections
+[1M> Examining Catalog ss_quick_1175425s.ldac
+[1A[1M> Examining Catalog ss_quick_1175426s.ldac
+[1A[1M> Examining Catalog ss_quick_1175427s.ldac
+[1Ass_quick_1174775s.ldac:  "t1v9               "  EXTERN. HEADER   4 sets     387 detections
+ss_quick_1174776s.ldac:  "t1v9               "  EXTERN. HEADER   4 sets     380 detections
+ss_quick_1174777s.ldac:  "t1v9               "  EXTERN. HEADER   4 sets     373 detections
+ss_quick_1174784s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     398 detections
+[1M> Examining Catalog ss_quick_1175434s.ldac
+[1Ass_quick_1174785s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     385 detections
+[1M> Examining Catalog ss_quick_1175435s.ldac
+[1Ass_quick_1174786s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     387 detections
+[1M> Examining Catalog ss_quick_1175436s.ldac
+[1Ass_quick_1174787s.ldac:  "t1v3               "  EXTERN. HEADER   4 sets     370 detections
+[1M> Examining Catalog ss_quick_1175437s.ldac
+[1A[1M> Examining Catalog ss_quick_1175444s.ldac
+[1A[1M> Examining Catalog ss_quick_1175445s.ldac
+[1A[1M> Examining Catalog ss_quick_1175446s.ldac
+[1A[1M> Examining Catalog ss_quick_1175447s.ldac
+[1Ass_quick_1174794s.ldac:  "t1v4               "  EXTERN. HEADER   4 sets     368 detections
+ss_quick_1174795s.ldac:  "t1v4               "  EXTERN. HEADER   4 sets     334 detections
+ss_quick_1174796s.ldac:  "t1v4               "  EXTERN. HEADER   4 sets     344 detections
+ss_quick_1174797s.ldac:  "t1v4               "  EXTERN. HEADER   4 sets     355 detections
+[1M> Examining Catalog ss_quick_1175454s.ldac
+[1Ass_quick_1175424s.ldac:  "t1v19              "  EXTERN. HEADER   4 sets     476 detections
+ss_quick_1175425s.ldac:  "t1v19              "  EXTERN. HEADER   4 sets     484 detections
+[1M> Examining Catalog ss_quick_1175455s.ldac
+[1Ass_quick_1175426s.ldac:  "t1v19              "  EXTERN. HEADER   4 sets     479 detections
+[1M> Examining Catalog ss_quick_1175456s.ldac
+[1Ass_quick_1175427s.ldac:  "t1v19              "  EXTERN. HEADER   4 sets     464 detections
+[1M> Examining Catalog ss_quick_1175457s.ldac
+[1Ass_quick_1175434s.ldac:  "t1v20              "  EXTERN. HEADER   4 sets     471 detections
+[1M> Examining Catalog ss_quick_1175464s.ldac
+[1Ass_quick_1175435s.ldac:  "t1v20              "  EXTERN. HEADER   4 sets     499 detections
+[1M> Examining Catalog ss_quick_1175465s.ldac
+[1Ass_quick_1175436s.ldac:  "t1v20              "  EXTERN. HEADER   4 sets     437 detections
+[1M> Examining Catalog ss_quick_1175466s.ldac
+[1Ass_quick_1175437s.ldac:  "t1v20              "  EXTERN. HEADER   4 sets     441 detections
+[1M> Examining Catalog ss_quick_1175467s.ldac
+[1A[1M> Examining Catalog ss_quick_1175474s.ldac
+[1Ass_quick_1175444s.ldac:  "t1v21              "  EXTERN. HEADER   4 sets     428 detections
+[1M> Examining Catalog ss_quick_1175475s.ldac
+[1A[1M> Examining Catalog ss_quick_1175476s.ldac
+[1A[1M> Examining Catalog ss_quick_1175477s.ldac
+[1A[1M> Examining Catalog ss_quick_1175484s.ldac
+[1Ass_quick_1175445s.ldac:  "t1v21              "  EXTERN. HEADER   4 sets     449 detections
+[1M> Examining Catalog ss_quick_1175485s.ldac
+[1A[1M> Examining Catalog ss_quick_1175486s.ldac
+[1Ass_quick_1175446s.ldac:  "t1v21              "  EXTERN. HEADER   4 sets     387 detections
+ss_quick_1175447s.ldac:  "t1v21              "  EXTERN. HEADER   4 sets     409 detections
+ss_quick_1175454s.ldac:  "t1v22              "  EXTERN. HEADER   4 sets     410 detections
+ss_quick_1175455s.ldac:  "t1v22              "  EXTERN. HEADER   4 sets     403 detections
+ss_quick_1175456s.ldac:  "t1v22              "  EXTERN. HEADER   4 sets     410 detections
+ss_quick_1175457s.ldac:  "t1v22              "  EXTERN. HEADER   4 sets     389 detections
+[1M> Examining Catalog ss_quick_1175487s.ldac
+[1Ass_quick_1175464s.ldac:  "t1v23              "  EXTERN. HEADER   4 sets     446 detections
+[1M> Examining Catalog ss_quick_1175494s.ldac
+[1Ass_quick_1175465s.ldac:  "t1v23              "  EXTERN. HEADER   4 sets     436 detections
+[1M> Examining Catalog ss_quick_1175495s.ldac
+[1Ass_quick_1175466s.ldac:  "t1v23              "  EXTERN. HEADER   4 sets     383 detections
+[1M> Examining Catalog ss_quick_1175496s.ldac
+[1Ass_quick_1175467s.ldac:  "t1v23              "  EXTERN. HEADER   4 sets     391 detections
+[1M> Examining Catalog ss_quick_1175497s.ldac
+[1A[1M> Examining Catalog ss_quick_1175504s.ldac
+[1A[1M> Examining Catalog ss_quick_1175505s.ldac
+[1A[1M> Examining Catalog ss_quick_1175506s.ldac
+[1A[1M> Examining Catalog ss_quick_1175507s.ldac
+[1Ass_quick_1175474s.ldac:  "t1v24              "  EXTERN. HEADER   4 sets     402 detections
+ss_quick_1175475s.ldac:  "t1v24              "  EXTERN. HEADER   4 sets     404 detections
+ss_quick_1175476s.ldac:  "t1v24              "  EXTERN. HEADER   4 sets     408 detections
+ss_quick_1175477s.ldac:  "t1v24              "  EXTERN. HEADER   4 sets     433 detections
+ss_quick_1175484s.ldac:  "t1v25              "  EXTERN. HEADER   4 sets     440 detections
+ss_quick_1175485s.ldac:  "t1v25              "  EXTERN. HEADER   4 sets     409 detections
+ss_quick_1175486s.ldac:  "t1v25              "  EXTERN. HEADER   4 sets     455 detections
+ss_quick_1175487s.ldac:  "t1v25              "  EXTERN. HEADER   4 sets     444 detections
+ss_quick_1175494s.ldac:  "t1v26              "  EXTERN. HEADER   4 sets     440 detections
+ss_quick_1175495s.ldac:  "t1v26              "  EXTERN. HEADER   4 sets     407 detections
+ss_quick_1175496s.ldac:  "t1v26              "  EXTERN. HEADER   4 sets     386 detections
+ss_quick_1175497s.ldac:  "t1v26              "  EXTERN. HEADER   4 sets     429 detections
+ss_quick_1175504s.ldac:  "t1v27              "  EXTERN. HEADER   4 sets     387 detections
+ss_quick_1175505s.ldac:  "t1v27              "  EXTERN. HEADER   4 sets     406 detections
+ss_quick_1175506s.ldac:  "t1v27              "  EXTERN. HEADER   4 sets     359 detections
+ss_quick_1175507s.ldac:  "t1v27              "  EXTERN. HEADER   4 sets     372 detections
+
+----- 62058 detections loaded
+
+----- 1 instrument found for astrometry:
+
+Instrument A1 :
+4 extensions
+FILTER  = 'Ks      '                                                            
+QRUNID  = '10AQ04  '                                                            
+
+----- 1 instrument found for photometry:
+
+Instrument P1 :
+FILTER  = 'Ks      '                                                            
+
+----- 1 field group found:
+
+ Group  1: 136 fields at 12:33:21.50 +11:40:04.5 with radius 19.35'
+[7m                  instruments  epoch      center coordinates     radius   scale [0m
+ss_quick_1174550s.ld A1  P1    2010.2  12:33:09.12 +11:40:17.1   15.21'  0.3033"
+ss_quick_1174551s.ld A1  P1    2010.2  12:33:17.28 +11:39:17.4   15.21'  0.3033"
+ss_quick_1174552s.ld A1  P1    2010.2  12:33:21.36 +11:41:17.5   15.21'  0.3033"
+ss_quick_1174553s.ld A1  P1    2010.2  12:33:13.21 +11:42:16.9   15.21'  0.3033"
+ss_quick_1174560s.ld A1  P1    2010.2  12:33:17.78 +11:38:11.0   15.21'  0.3033"
+ss_quick_1174561s.ld A1  P1    2010.2  12:33:25.94 +11:37:11.0   15.21'  0.3033"
+ss_quick_1174562s.ld A1  P1    2010.2  12:33:30.05 +11:39:11.0   15.21'  0.3033"
+ss_quick_1174563s.ld A1  P1    2010.2  12:33:21.85 +11:40:11.2   15.21'  0.3033"
+ss_quick_1174570s.ld A1  P1    2010.2  12:33:17.02 +11:41:20.3   15.21'  0.3033"
+ss_quick_1174571s.ld A1  P1    2010.2  12:33:25.20 +11:40:20.5   15.21'  0.3033"
+ss_quick_1174572s.ld A1  P1    2010.2  12:33:29.28 +11:42:20.4   15.21'  0.3033"
+ss_quick_1174573s.ld A1  P1    2010.2  12:33:21.08 +11:43:20.1   15.21'  0.3033"
+ss_quick_1174580s.ld A1  P1    2010.2  12:33:08.76 +11:38:46.7   15.21'  0.3033"
+ss_quick_1174581s.ld A1  P1    2010.2  12:33:16.91 +11:37:46.8   15.21'  0.3033"
+ss_quick_1174582s.ld A1  P1    2010.2  12:33:20.97 +11:39:46.9   15.21'  0.3033"
+ss_quick_1174583s.ld A1  P1    2010.2  12:33:12.80 +11:40:46.8   15.21'  0.3033"
+ss_quick_1174590s.ld A1  P1    2010.2  12:33:22.28 +11:39:17.2   15.21'  0.3033"
+ss_quick_1174591s.ld A1  P1    2010.2  12:33:30.47 +11:38:17.2   15.21'  0.3033"
+ss_quick_1174592s.ld A1  P1    2010.2  12:33:34.55 +11:40:16.4   15.21'  0.3033"
+ss_quick_1174593s.ld A1  P1    2010.2  12:33:26.35 +11:41:17.5   15.21'  0.3033"
+ss_quick_1174600s.ld A1  P1    2010.2  12:33:10.51 +11:41:16.0   15.21'  0.3033"
+ss_quick_1174601s.ld A1  P1    2010.2  12:33:18.68 +11:40:16.3   15.21'  0.3033"
+ss_quick_1174602s.ld A1  P1    2010.2  12:33:22.75 +11:42:16.3   15.21'  0.3033"
+ss_quick_1174603s.ld A1  P1    2010.2  12:33:14.59 +11:43:15.4   15.21'  0.3033"
+ss_quick_1174610s.ld A1  P1    2010.2  12:33:13.98 +11:37:42.2   15.21'  0.3033"
+ss_quick_1174611s.ld A1  P1    2010.2  12:33:22.12 +11:36:42.1   15.21'  0.3033"
+ss_quick_1174612s.ld A1  P1    2010.2  12:33:26.18 +11:38:41.9   15.21'  0.3033"
+ss_quick_1174613s.ld A1  P1    2010.2  12:33:18.01 +11:39:42.1   15.21'  0.3033"
+ss_quick_1174620s.ld A1  P1    2010.2  12:33:21.27 +11:41:01.2   15.21'  0.3033"
+ss_quick_1174621s.ld A1  P1    2010.2  12:33:29.46 +11:40:00.6   15.21'  0.3033"
+ss_quick_1174622s.ld A1  P1    2010.2  12:33:33.51 +11:42:00.2   15.21'  0.3033"
+ss_quick_1174623s.ld A1  P1    2010.2  12:33:25.32 +11:43:00.8   15.21'  0.3033"
+ss_quick_1174630s.ld A1  P1    2010.2  12:33:06.49 +11:39:46.1   15.21'  0.3033"
+ss_quick_1174631s.ld A1  P1    2010.2  12:33:14.67 +11:38:46.1   15.21'  0.3033"
+ss_quick_1174632s.ld A1  P1    2010.2  12:33:18.77 +11:40:46.5   15.21'  0.3033"
+ss_quick_1174633s.ld A1  P1    2010.2  12:33:10.59 +11:41:46.1   15.21'  0.3033"
+ss_quick_1174650s.ld A1  P1    2010.2  12:33:22.28 +11:39:17.2   15.21'  0.3033"
+ss_quick_1174651s.ld A1  P1    2010.2  12:33:30.47 +11:38:17.3   15.21'  0.3033"
+ss_quick_1174652s.ld A1  P1    2010.2  12:33:34.55 +11:40:16.4   15.21'  0.3033"
+ss_quick_1174653s.ld A1  P1    2010.2  12:33:26.36 +11:41:17.4   15.21'  0.3033"
+ss_quick_1174655s.ld A1  P1    2010.2  12:33:13.97 +11:37:42.1   15.21'  0.3033"
+ss_quick_1174656s.ld A1  P1    2010.2  12:33:22.12 +11:36:42.1   15.21'  0.3033"
+ss_quick_1174657s.ld A1  P1    2010.2  12:33:26.18 +11:38:42.1   15.21'  0.3033"
+ss_quick_1174658s.ld A1  P1    2010.2  12:33:18.02 +11:39:42.1   15.21'  0.3033"
+ss_quick_1174665s.ld A1  P1    2010.2  12:33:16.98 +11:39:41.0   15.21'  0.3033"
+ss_quick_1174666s.ld A1  P1    2010.2  12:33:25.14 +11:38:41.1   15.21'  0.3033"
+ss_quick_1174667s.ld A1  P1    2010.2  12:33:29.23 +11:40:41.4   15.21'  0.3033"
+ss_quick_1174668s.ld A1  P1    2010.2  12:33:21.06 +11:41:41.2   15.21'  0.3033"
+ss_quick_1174675s.ld A1  P1    2010.2  12:33:12.88 +11:40:09.5   15.21'  0.3033"
+ss_quick_1174676s.ld A1  P1    2010.2  12:33:21.03 +11:39:09.7   15.21'  0.3033"
+ss_quick_1174677s.ld A1  P1    2010.2  12:33:25.14 +11:41:10.0   15.21'  0.3033"
+ss_quick_1174678s.ld A1  P1    2010.2  12:33:16.97 +11:42:09.4   15.21'  0.3033"
+ss_quick_1174685s.ld A1  P1    2010.2  12:33:15.29 +11:38:49.1   15.21'  0.3033"
+ss_quick_1174686s.ld A1  P1    2010.2  12:33:23.45 +11:37:49.2   15.21'  0.3033"
+ss_quick_1174687s.ld A1  P1    2010.2  12:33:27.53 +11:39:48.9   15.21'  0.3033"
+ss_quick_1174688s.ld A1  P1    2010.2  12:33:19.33 +11:40:49.6   15.21'  0.3033"
+ss_quick_1174694s.ld A1  P1    2010.2  12:33:16.96 +11:39:41.1   15.21'  0.3033"
+ss_quick_1174695s.ld A1  P1    2010.2  12:33:25.13 +11:38:41.2   15.21'  0.3033"
+ss_quick_1174696s.ld A1  P1    2010.2  12:33:29.22 +11:40:41.3   15.21'  0.3033"
+ss_quick_1174697s.ld A1  P1    2010.2  12:33:21.04 +11:41:41.2   15.21'  0.3033"
+ss_quick_1174704s.ld A1  P1    2010.2  12:33:12.88 +11:40:09.5   15.21'  0.3033"
+ss_quick_1174705s.ld A1  P1    2010.2  12:33:21.03 +11:39:09.7   15.21'  0.3033"
+ss_quick_1174706s.ld A1  P1    2010.2  12:33:25.14 +11:41:10.0   15.21'  0.3033"
+ss_quick_1174707s.ld A1  P1    2010.2  12:33:16.97 +11:42:09.4   15.21'  0.3033"
+ss_quick_1174714s.ld A1  P1    2010.2  12:33:15.28 +11:38:48.9   15.21'  0.3033"
+ss_quick_1174715s.ld A1  P1    2010.2  12:33:23.45 +11:37:49.5   15.21'  0.3033"
+ss_quick_1174716s.ld A1  P1    2010.2  12:33:27.53 +11:39:49.2   15.21'  0.3033"
+ss_quick_1174717s.ld A1  P1    2010.2  12:33:19.33 +11:40:49.6   15.21'  0.3033"
+ss_quick_1174724s.ld A1  P1    2010.2  12:33:17.40 +11:40:28.8   15.21'  0.3033"
+ss_quick_1174725s.ld A1  P1    2010.2  12:33:25.56 +11:39:28.6   15.21'  0.3033"
+ss_quick_1174726s.ld A1  P1    2010.2  12:33:29.64 +11:41:29.0   15.21'  0.3033"
+ss_quick_1174727s.ld A1  P1    2010.2  12:33:21.46 +11:42:28.5   15.21'  0.3033"
+ss_quick_1174734s.ld A1  P1    2010.2  12:33:10.58 +11:39:29.2   15.21'  0.3033"
+ss_quick_1174735s.ld A1  P1    2010.2  12:33:18.75 +11:38:29.4   15.21'  0.3033"
+ss_quick_1174736s.ld A1  P1    2010.2  12:33:22.84 +11:40:29.3   15.21'  0.3033"
+ss_quick_1174737s.ld A1  P1    2010.2  12:33:14.67 +11:41:29.4   15.21'  0.3033"
+ss_quick_1174744s.ld A1  P1    2010.2  12:33:19.09 +11:39:01.7   15.21'  0.3033"
+ss_quick_1174745s.ld A1  P1    2010.2  12:33:27.29 +11:38:01.7   15.21'  0.3033"
+ss_quick_1174746s.ld A1  P1    2010.2  12:33:31.36 +11:40:01.5   15.21'  0.3033"
+ss_quick_1174747s.ld A1  P1    2010.2  12:33:23.18 +11:41:01.9   15.21'  0.3033"
+ss_quick_1174754s.ld A1  P1    2010.2  12:33:13.59 +11:40:57.5   15.21'  0.3033"
+ss_quick_1174755s.ld A1  P1    2010.2  12:33:21.77 +11:39:57.8   15.21'  0.3033"
+ss_quick_1174756s.ld A1  P1    2010.2  12:33:25.84 +11:41:58.0   15.21'  0.3033"
+ss_quick_1174757s.ld A1  P1    2010.2  12:33:17.66 +11:42:57.3   15.21'  0.3033"
+ss_quick_1174764s.ld A1  P1    2010.2  12:33:12.39 +11:38:25.7   15.21'  0.3033"
+ss_quick_1174765s.ld A1  P1    2010.2  12:33:20.54 +11:37:26.2   15.21'  0.3033"
+ss_quick_1174766s.ld A1  P1    2010.2  12:33:24.63 +11:39:26.0   15.21'  0.3033"
+ss_quick_1174767s.ld A1  P1    2010.2  12:33:16.44 +11:40:25.7   15.21'  0.3033"
+ss_quick_1174774s.ld A1  P1    2010.2  12:33:20.62 +11:40:12.3   15.21'  0.3033"
+ss_quick_1174775s.ld A1  P1    2010.2  12:33:28.79 +11:39:11.7   15.21'  0.3033"
+ss_quick_1174776s.ld A1  P1    2010.2  12:33:32.86 +11:41:11.8   15.21'  0.3033"
+ss_quick_1174777s.ld A1  P1    2010.2  12:33:24.67 +11:42:12.1   15.21'  0.3033"
+ss_quick_1174784s.ld A1  P1    2010.2  12:33:15.29 +11:38:49.1   15.21'  0.3033"
+ss_quick_1174785s.ld A1  P1    2010.2  12:33:23.44 +11:37:49.4   15.21'  0.3033"
+ss_quick_1174786s.ld A1  P1    2010.2  12:33:27.53 +11:39:49.0   15.21'  0.3033"
+ss_quick_1174787s.ld A1  P1    2010.2  12:33:19.33 +11:40:49.5   15.21'  0.3033"
+ss_quick_1174794s.ld A1  P1    2010.2  12:33:17.43 +11:40:28.9   15.21'  0.3033"
+ss_quick_1174795s.ld A1  P1    2010.2  12:33:25.58 +11:39:28.5   15.21'  0.3033"
+ss_quick_1174796s.ld A1  P1    2010.2  12:33:29.66 +11:41:28.9   15.21'  0.3033"
+ss_quick_1174797s.ld A1  P1    2010.2  12:33:21.48 +11:42:28.6   15.21'  0.3033"
+ss_quick_1175424s.ld A1  P1    2010.2  12:33:21.15 +11:38:09.0   15.21'  0.3033"
+ss_quick_1175425s.ld A1  P1    2010.2  12:33:29.35 +11:37:08.7   15.21'  0.3033"
+ss_quick_1175426s.ld A1  P1    2010.2  12:33:33.42 +11:39:08.8   15.21'  0.3033"
+ss_quick_1175427s.ld A1  P1    2010.2  12:33:25.25 +11:40:09.0   15.21'  0.3033"
+ss_quick_1175434s.ld A1  P1    2010.2  12:33:14.58 +11:41:55.1   15.21'  0.3033"
+ss_quick_1175435s.ld A1  P1    2010.2  12:33:22.72 +11:40:55.6   15.21'  0.3033"
+ss_quick_1175436s.ld A1  P1    2010.2  12:33:26.78 +11:42:55.3   15.21'  0.3033"
+ss_quick_1175437s.ld A1  P1    2010.2  12:33:18.62 +11:43:54.7   15.21'  0.3033"
+ss_quick_1175444s.ld A1  P1    2010.2  12:33:09.14 +11:37:55.4   15.21'  0.3033"
+ss_quick_1175445s.ld A1  P1    2010.2  12:33:17.28 +11:36:55.6   15.21'  0.3033"
+ss_quick_1175446s.ld A1  P1    2010.2  12:33:21.33 +11:38:55.6   15.21'  0.3033"
+ss_quick_1175447s.ld A1  P1    2010.2  12:33:13.20 +11:39:55.4   15.21'  0.3033"
+ss_quick_1175454s.ld A1  P1    2010.2  12:33:24.28 +11:40:00.1   15.21'  0.3033"
+ss_quick_1175455s.ld A1  P1    2010.2  12:33:32.42 +11:38:59.8   15.21'  0.3033"
+ss_quick_1175456s.ld A1  P1    2010.2  12:33:36.53 +11:40:59.4   15.21'  0.3033"
+ss_quick_1175457s.ld A1  P1    2010.2  12:33:28.33 +11:42:00.0   15.21'  0.3033"
+ss_quick_1175464s.ld A1  P1    2010.2  12:33:07.11 +11:41:03.2   15.21'  0.3033"
+ss_quick_1175465s.ld A1  P1    2010.2  12:33:15.26 +11:40:03.5   15.21'  0.3033"
+ss_quick_1175466s.ld A1  P1    2010.2  12:33:19.35 +11:42:03.3   15.21'  0.3033"
+ss_quick_1175467s.ld A1  P1    2010.2  12:33:11.18 +11:43:02.8   15.21'  0.3033"
+ss_quick_1175474s.ld A1  P1    2010.2  12:33:17.13 +11:37:17.8   15.21'  0.3033"
+ss_quick_1175475s.ld A1  P1    2010.2  12:33:25.30 +11:36:17.6   15.21'  0.3033"
+ss_quick_1175476s.ld A1  P1    2010.2  12:33:29.39 +11:38:17.4   15.21'  0.3033"
+ss_quick_1175477s.ld A1  P1    2010.2  12:33:21.19 +11:39:17.7   15.21'  0.3033"
+ss_quick_1175484s.ld A1  P1    2010.2  12:33:19.93 +11:41:51.4   15.21'  0.3033"
+ss_quick_1175485s.ld A1  P1    2010.2  12:33:28.11 +11:40:51.5   15.21'  0.3033"
+ss_quick_1175486s.ld A1  P1    2010.2  12:33:32.17 +11:42:51.4   15.21'  0.3033"
+ss_quick_1175487s.ld A1  P1    2010.2  12:33:23.97 +11:43:51.0   15.21'  0.3033"
+ss_quick_1175494s.ld A1  P1    2010.2  12:33:05.27 +11:38:54.3   15.21'  0.3033"
+ss_quick_1175495s.ld A1  P1    2010.2  12:33:13.43 +11:37:54.6   15.21'  0.3033"
+ss_quick_1175496s.ld A1  P1    2010.2  12:33:17.49 +11:39:54.5   15.21'  0.3033"
+ss_quick_1175497s.ld A1  P1    2010.2  12:33:09.34 +11:40:54.3   15.21'  0.3033"
+ss_quick_1175504s.ld A1  P1    2010.2  12:33:24.39 +11:38:35.7   15.21'  0.3033"
+ss_quick_1175505s.ld A1  P1    2010.2  12:33:32.57 +11:37:35.7   15.21'  0.3033"
+ss_quick_1175506s.ld A1  P1    2010.2  12:33:36.67 +11:39:35.4   15.21'  0.3033"
+ss_quick_1175507s.ld A1  P1    2010.2  12:33:28.49 +11:40:35.6   15.21'  0.3033"
+
+[1M> Making mosaic adjustments...
+[1A[1M> Computing set shifts for field 1/136
+[1A[1M> Computing set shifts for field 2/136
+[1A[1M> Computing set shifts for field 3/136
+[1A[1M> Computing set shifts for field 4/136
+[1A[1M> Computing set shifts for field 5/136
+[1A[1M> Computing set shifts for field 6/136
+[1A[1M> Computing set shifts for field 7/136
+[1A[1M> Computing set shifts for field 8/136
+[1A[1M> Computing set shifts for field 9/136
+[1A[1M> Computing set shifts for field 10/136
+[1A[1M> Computing set shifts for field 11/136
+[1A[1M> Computing set shifts for field 12/136
+[1A[1M> Computing set shifts for field 13/136
+[1A[1M> Computing set shifts for field 14/136
+[1A[1M> Computing set shifts for field 15/136
+[1A[1M> Computing set shifts for field 16/136
+[1A[1M> Computing set shifts for field 17/136
+[1A[1M> Computing set shifts for field 18/136
+[1A[1M> Computing set shifts for field 19/136
+[1A[1M> Computing set shifts for field 20/136
+[1A[1M> Computing set shifts for field 21/136
+[1A[1M> Computing set shifts for field 22/136
+[1A[1M> Computing set shifts for field 23/136
+[1A[1M> Computing set shifts for field 24/136
+[1A[1M> Computing set shifts for field 25/136
+[1A[1M> Computing set shifts for field 26/136
+[1A[1M> Computing set shifts for field 27/136
+[1A[1M> Computing set shifts for field 28/136
+[1A[1M> Computing set shifts for field 29/136
+[1A[1M> Computing set shifts for field 30/136
+[1A[1M> Computing set shifts for field 31/136
+[1A[1M> Computing set shifts for field 32/136
+[1A[1M> Computing set shifts for field 33/136
+[1A[1M> Computing set shifts for field 34/136
+[1A[1M> Computing set shifts for field 35/136
+[1A[1M> Computing set shifts for field 36/136
+[1A[1M> Computing set shifts for field 37/136
+[1A[1M> Computing set shifts for field 38/136
+[1A[1M> Computing set shifts for field 39/136
+[1A[1M> Computing set shifts for field 40/136
+[1A[1M> Computing set shifts for field 41/136
+[1A[1M> Computing set shifts for field 42/136
+[1A[1M> Computing set shifts for field 43/136
+[1A[1M> Computing set shifts for field 44/136
+[1A[1M> Computing set shifts for field 45/136
+[1A[1M> Computing set shifts for field 46/136
+[1A[1M> Computing set shifts for field 47/136
+[1A[1M> Computing set shifts for field 48/136
+[1A[1M> Computing set shifts for field 49/136
+[1A[1M> Computing set shifts for field 50/136
+[1A[1M> Computing set shifts for field 51/136
+[1A[1M> Computing set shifts for field 52/136
+[1A[1M> Computing set shifts for field 53/136
+[1A[1M> Computing set shifts for field 54/136
+[1A[1M> Computing set shifts for field 55/136
+[1A[1M> Computing set shifts for field 56/136
+[1A[1M> Computing set shifts for field 57/136
+[1A[1M> Computing set shifts for field 58/136
+[1A[1M> Computing set shifts for field 59/136
+[1A[1M> Computing set shifts for field 60/136
+[1A[1M> Computing set shifts for field 61/136
+[1A[1M> Computing set shifts for field 62/136
+[1A[1M> Computing set shifts for field 63/136
+[1A[1M> Computing set shifts for field 64/136
+[1A[1M> Computing set shifts for field 65/136
+[1A[1M> Computing set shifts for field 66/136
+[1A[1M> Computing set shifts for field 67/136
+[1A[1M> Computing set shifts for field 68/136
+[1A[1M> Computing set shifts for field 69/136
+[1A[1M> Computing set shifts for field 70/136
+[1A[1M> Computing set shifts for field 71/136
+[1A[1M> Computing set shifts for field 72/136
+[1A[1M> Computing set shifts for field 73/136
+[1A[1M> Computing set shifts for field 74/136
+[1A[1M> Computing set shifts for field 75/136
+[1A[1M> Computing set shifts for field 76/136
+[1A[1M> Computing set shifts for field 77/136
+[1A[1M> Computing set shifts for field 78/136
+[1A[1M> Computing set shifts for field 79/136
+[1A[1M> Computing set shifts for field 80/136
+[1A[1M> Computing set shifts for field 81/136
+[1A[1M> Computing set shifts for field 82/136
+[1A[1M> Computing set shifts for field 83/136
+[1A[1M> Computing set shifts for field 84/136
+[1A[1M> Computing set shifts for field 85/136
+[1A[1M> Computing set shifts for field 86/136
+[1A[1M> Computing set shifts for field 87/136
+[1A[1M> Computing set shifts for field 88/136
+[1A[1M> Computing set shifts for field 89/136
+[1A[1M> Computing set shifts for field 90/136
+[1A[1M> Computing set shifts for field 91/136
+[1A[1M> Computing set shifts for field 92/136
+[1A[1M> Computing set shifts for field 93/136
+[1A[1M> Computing set shifts for field 94/136
+[1A[1M> Computing set shifts for field 95/136
+[1A[1M> Computing set shifts for field 96/136
+[1A[1M> Computing set shifts for field 97/136
+[1A[1M> Computing set shifts for field 98/136
+[1A[1M> Computing set shifts for field 99/136
+[1A[1M> Computing set shifts for field 100/136
+[1A[1M> Computing set shifts for field 101/136
+[1A[1M> Computing set shifts for field 102/136
+[1A[1M> Computing set shifts for field 103/136
+[1A[1M> Computing set shifts for field 104/136
+[1A[1M> Computing set shifts for field 105/136
+[1A[1M> Computing set shifts for field 106/136
+[1A[1M> Computing set shifts for field 107/136
+[1A[1M> Computing set shifts for field 108/136
+[1A[1M> Computing set shifts for field 109/136
+[1A[1M> Computing set shifts for field 110/136
+[1A[1M> Computing set shifts for field 111/136
+[1A[1M> Computing set shifts for field 112/136
+[1A[1M> Computing set shifts for field 113/136
+[1A[1M> Computing set shifts for field 114/136
+[1A[1M> Computing set shifts for field 115/136
+[1A[1M> Computing set shifts for field 116/136
+[1A[1M> Computing set shifts for field 117/136
+[1A[1M> Computing set shifts for field 118/136
+[1A[1M> Computing set shifts for field 119/136
+[1A[1M> Computing set shifts for field 120/136
+[1A[1M> Computing set shifts for field 121/136
+[1A[1M> Computing set shifts for field 122/136
+[1A[1M> Computing set shifts for field 123/136
+[1A[1M> Computing set shifts for field 124/136
+[1A[1M> Computing set shifts for field 125/136
+[1A[1M> Computing set shifts for field 126/136
+[1A[1M> Computing set shifts for field 127/136
+[1A[1M> Computing set shifts for field 128/136
+[1A[1M> Computing set shifts for field 129/136
+[1A[1M> Computing set shifts for field 130/136
+[1A[1M> Computing set shifts for field 131/136
+[1A[1M> Computing set shifts for field 132/136
+[1A[1M> Computing set shifts for field 133/136
+[1A[1M> Computing set shifts for field 134/136
+[1A[1M> Computing set shifts for field 135/136
+[1A[1M> Computing set shifts for field 136/136
+[1A[1M> 
+[1A----- Reference catalogs:
+
+[1M> Querying 2MASS at cocat1.u-strasbg.fr for astrometric reference stars...
+[1A[1M> Catalog 2MASS (Ks band) : Object #0 / 0 samples stored
+[1A[1M> 
+[1A Group  1:        3 standards found in 2MASS (band Ks)
+
+----- Astrometric matching:
+
+[1M> Starting field matching...
+[1A[1M> Matching field ss_quick_1174550s.ldac...
+[1A[1M> Matching field ss_quick_1174551s.ldac...
+[1A[1M> Matching field ss_quick_1174552s.ldac...
+[1A[1M> Matching field ss_quick_1174553s.ldac...
+[1A[1M> Matching field ss_quick_1174560s.ldac...
+[1A[1M> Matching field ss_quick_1174561s.ldac...
+[1A[1M> Matching field ss_quick_1174562s.ldac...
+[1A[1M> Matching field ss_quick_1174563s.ldac...
+[1A[1M> Matching field ss_quick_1174570s.ldac...
+[1A[1M> Matching field ss_quick_1174571s.ldac...
+[1A[1M> Matching field ss_quick_1174572s.ldac...
+[1A[1M> Matching field ss_quick_1174573s.ldac...
+[1A[1M> Matching field ss_quick_1174580s.ldac...
+[1A[1M> Matching field ss_quick_1174581s.ldac...
+[1A[1M> Matching field ss_quick_1174582s.ldac...
+[1A[1M> Matching field ss_quick_1174583s.ldac...
+[1A[1M> 
+[1A Group  1:        3 standards in 2MASS (band Ks)
+[7m              instruments  pos.angle   scale    cont.        shift        cont.[0m
+[01;31mss_quick_1174550s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174590s.ldac...
+[1A[1M> Matching field ss_quick_1174591s.ldac...
+[1A[1M> Matching field ss_quick_1174592s.ldac...
+[1A[01;31mss_quick_1174551s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174593s.ldac...
+[1A[01;31mss_quick_1174552s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174600s.ldac...
+[1A[01;31mss_quick_1174553s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174601s.ldac...
+[1A[1M> Matching field ss_quick_1174602s.ldac...
+[1A[01;31mss_quick_1174560s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174561s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174562s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174563s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174570s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174571s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174572s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174573s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174603s.ldac...
+[1A[1M> Matching field ss_quick_1174610s.ldac...
+[1A[1M> Matching field ss_quick_1174611s.ldac...
+[1A[1M> Matching field ss_quick_1174612s.ldac...
+[1A[1M> Matching field ss_quick_1174613s.ldac...
+[1A[1M> Matching field ss_quick_1174620s.ldac...
+[1A[1M> Matching field ss_quick_1174621s.ldac...
+[1A[1M> Matching field ss_quick_1174622s.ldac...
+[1A[01;31mss_quick_1174580s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174581s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174582s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174583s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174590s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174591s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174592s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174593s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174623s.ldac...
+[1A[01;31mss_quick_1174600s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174630s.ldac...
+[1A[01;31mss_quick_1174601s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174631s.ldac...
+[1A[01;31mss_quick_1174602s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174632s.ldac...
+[1A[01;31mss_quick_1174603s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174633s.ldac...
+[1A[01;31mss_quick_1174610s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174650s.ldac...
+[1A[1M> Matching field ss_quick_1174651s.ldac...
+[1A[1M> Matching field ss_quick_1174652s.ldac...
+[1A[01;31mss_quick_1174611s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174612s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174653s.ldac...
+[1A[1M> Matching field ss_quick_1174655s.ldac...
+[1A[1M> Matching field ss_quick_1174656s.ldac...
+[1A[01;31mss_quick_1174613s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174620s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174621s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174622s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174657s.ldac...
+[1A[1M> Matching field ss_quick_1174658s.ldac...
+[1A[1M> Matching field ss_quick_1174665s.ldac...
+[1A[01;31mss_quick_1174623s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174666s.ldac...
+[1A[01;31mss_quick_1174630s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174631s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174632s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174667s.ldac...
+[1A[1M> Matching field ss_quick_1174668s.ldac...
+[1A[1M> Matching field ss_quick_1174675s.ldac...
+[1A[01;31mss_quick_1174633s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174650s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174651s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174676s.ldac...
+[1A[1M> Matching field ss_quick_1174677s.ldac...
+[1A[1M> Matching field ss_quick_1174678s.ldac...
+[1A[01;31mss_quick_1174652s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174653s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174685s.ldac...
+[1A[1M> Matching field ss_quick_1174686s.ldac...
+[1A[01;31mss_quick_1174655s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174656s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174657s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174687s.ldac...
+[1A[01;31mss_quick_1174658s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174688s.ldac...
+[1A[1M> Matching field ss_quick_1174694s.ldac...
+[1A[01;31mss_quick_1174665s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174666s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174695s.ldac...
+[1A[01;31mss_quick_1174667s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174696s.ldac...
+[1A[1M> Matching field ss_quick_1174697s.ldac...
+[1A[01;31mss_quick_1174668s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174704s.ldac...
+[1A[01;31mss_quick_1174675s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174705s.ldac...
+[1A[01;31mss_quick_1174676s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174677s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174706s.ldac...
+[1A[1M> Matching field ss_quick_1174707s.ldac...
+[1A[1M> Matching field ss_quick_1174714s.ldac...
+[1A[1M> Matching field ss_quick_1174715s.ldac...
+[1A[01;31mss_quick_1174678s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174685s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174686s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174687s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174716s.ldac...
+[1A[01;31mss_quick_1174688s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174717s.ldac...
+[1A[1M> Matching field ss_quick_1174724s.ldac...
+[1A[01;31mss_quick_1174694s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174695s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174725s.ldac...
+[1A[01;31mss_quick_1174696s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174726s.ldac...
+[1A[1M> Matching field ss_quick_1174727s.ldac...
+[1A[1M> Matching field ss_quick_1174734s.ldac...
+[1A[01;31mss_quick_1174697s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174735s.ldac...
+[1A[01;31mss_quick_1174704s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174705s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174706s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174736s.ldac...
+[1A[1M> Matching field ss_quick_1174737s.ldac...
+[1A[1M> Matching field ss_quick_1174744s.ldac...
+[1A[1M> Matching field ss_quick_1174745s.ldac...
+[1A[01;31mss_quick_1174707s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174714s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174715s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174716s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174746s.ldac...
+[1A[01;31mss_quick_1174717s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174747s.ldac...
+[1A[01;31mss_quick_1174724s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174754s.ldac...
+[1A[01;31mss_quick_1174725s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174755s.ldac...
+[1A[01;31mss_quick_1174726s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174756s.ldac...
+[1A[1M> Matching field ss_quick_1174757s.ldac...
+[1A[1M> Matching field ss_quick_1174764s.ldac...
+[1A[1M> Matching field ss_quick_1174765s.ldac...
+[1A[01;31mss_quick_1174727s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174766s.ldac...
+[1A[1M> Matching field ss_quick_1174767s.ldac...
+[1A[1M> Matching field ss_quick_1174774s.ldac...
+[1A[1M> Matching field ss_quick_1174775s.ldac...
+[1A[01;31mss_quick_1174734s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174735s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174736s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174776s.ldac...
+[1A[01;31mss_quick_1174737s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174744s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174745s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174746s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174747s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174777s.ldac...
+[1A[01;31mss_quick_1174754s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174784s.ldac...
+[1A[1M> Matching field ss_quick_1174785s.ldac...
+[1A[01;31mss_quick_1174755s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174756s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174786s.ldac...
+[1A[01;31mss_quick_1174757s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174787s.ldac...
+[1A[01;31mss_quick_1174764s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174794s.ldac...
+[1A[1M> Matching field ss_quick_1174795s.ldac...
+[1A[01;31mss_quick_1174765s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174766s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174796s.ldac...
+[1A[01;31mss_quick_1174767s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1174797s.ldac...
+[1A[01;31mss_quick_1174774s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175424s.ldac...
+[1A[1M> Matching field ss_quick_1175425s.ldac...
+[1A[01;31mss_quick_1174775s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175426s.ldac...
+[1A[01;31mss_quick_1174776s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174777s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175427s.ldac...
+[1A[01;31mss_quick_1174784s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175434s.ldac...
+[1A[1M> Matching field ss_quick_1175435s.ldac...
+[1A[01;31mss_quick_1174785s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174786s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175436s.ldac...
+[1A[1M> Matching field ss_quick_1175437s.ldac...
+[1A[01;31mss_quick_1174787s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1174794s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175444s.ldac...
+[1A[01;31mss_quick_1174795s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175445s.ldac...
+[1A[01;31mss_quick_1174796s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175446s.ldac...
+[1A[01;31mss_quick_1174797s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175447s.ldac...
+[1A[1M> Matching field ss_quick_1175454s.ldac...
+[1A[01;31mss_quick_1175424s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175455s.ldac...
+[1A[1M> Matching field ss_quick_1175456s.ldac...
+[1A[01;31mss_quick_1175425s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175426s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175427s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175457s.ldac...
+[1A[1M> Matching field ss_quick_1175464s.ldac...
+[1A[01;31mss_quick_1175434s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175465s.ldac...
+[1A[1M> Matching field ss_quick_1175466s.ldac...
+[1A[01;31mss_quick_1175435s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175436s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175467s.ldac...
+[1A[1M> Matching field ss_quick_1175474s.ldac...
+[1A[1M> Matching field ss_quick_1175475s.ldac...
+[1A[1M> Matching field ss_quick_1175476s.ldac...
+[1A[01;31mss_quick_1175437s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175444s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175445s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175446s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175447s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175477s.ldac...
+[1A[01;31mss_quick_1175454s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175484s.ldac...
+[1A[1M> Matching field ss_quick_1175485s.ldac...
+[1A[01;31mss_quick_1175455s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175456s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175486s.ldac...
+[1A[01;31mss_quick_1175457s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175487s.ldac...
+[1A[1M> Matching field ss_quick_1175494s.ldac...
+[1A[1M> Matching field ss_quick_1175495s.ldac...
+[1A[1M> Matching field ss_quick_1175496s.ldac...
+[1A[1M> Matching field ss_quick_1175497s.ldac...
+[1A[01;31mss_quick_1175464s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175465s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175466s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175467s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175504s.ldac...
+[1A[01;31mss_quick_1175474s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175475s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175505s.ldac...
+[1A[01;31mss_quick_1175476s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175506s.ldac...
+[1A[01;31mss_quick_1175477s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[1M> Matching field ss_quick_1175507s.ldac...
+[1A[01;31mss_quick_1175484s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175485s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175486s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175487s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175494s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175495s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175496s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175497s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175504s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175505s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175506s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+[01;31mss_quick_1175507s. A1  P1  +0.00 deg  0.3033"   0.00     +0.0"    +0.0"   0.00[0m
+
+[1M> Making preliminary cross-identifications in group 1
+[1A[1M> Generating group plots...
+[1A[1M> Initializing detection weight factors...
+[1A[1M> Initializing the global astrometry matrix...
+[1A[1M> Starting field matching...
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 1/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 2/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 3/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 4/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 5/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 6/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 7/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 8/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 9/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 10/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 11/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 12/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 13/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 14/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 15/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 16/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 17/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 18/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 19/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 20/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 21/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 22/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 23/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 24/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 25/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 26/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 27/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 28/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 29/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 30/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 31/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 32/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 33/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 34/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 35/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 36/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 37/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 38/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 39/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 40/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 41/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 42/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 43/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 44/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 45/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 46/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 47/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 48/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 49/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 50/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 51/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 52/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 53/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 54/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 55/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 56/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 57/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 58/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 59/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 60/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 61/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 62/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 63/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 64/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 65/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 66/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 67/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 68/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 69/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 70/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 71/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 72/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 73/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 74/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 75/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 76/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 77/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 78/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 79/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 80/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 81/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 82/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 83/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 84/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 85/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 86/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 87/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 88/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 89/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 90/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 91/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 92/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 93/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 94/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 95/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 96/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 97/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 98/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 99/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 100/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 101/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 102/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 103/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 104/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 105/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 106/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 107/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 108/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 109/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 110/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 111/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 112/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 113/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 114/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 115/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 116/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 117/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 118/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 119/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 120/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 121/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 122/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 123/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 124/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 125/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 126/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 127/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 128/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 129/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 130/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 131/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 132/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 133/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 134/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 135/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 136/136
+[1A[1M> Fixing the degrees of freedom
+[1A[1M> Solving the global astrometry matrix...
+[1A
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+[1M> 
+[1A 
+----- Astrometric clipping:
+
+[1M> Making cross-identifications in group 1
+[1A[1M> Computing astrometric stats for group 1
+[1A[1M> Astrometric clipping in group 1
+[1A[1M> 
+[1A Group  1: 0/261 detections removed
+[1M> Initializing detection weight factors...
+[1A[1M> Initializing the global astrometry matrix...
+[1A[1M> Starting field matching...
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 1/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 2/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 3/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 4/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 5/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 6/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 7/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 8/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 9/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 10/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 11/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 12/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 13/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 14/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 15/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 16/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 17/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 18/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 19/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 20/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 21/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 22/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 23/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 24/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 25/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 26/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 27/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 28/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 29/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 30/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 31/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 32/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 33/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 34/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 35/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 36/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 37/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 38/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 39/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 40/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 41/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 42/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 43/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 44/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 45/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 46/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 47/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 48/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 49/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 50/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 51/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 52/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 53/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 54/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 55/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 56/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 57/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 58/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 59/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 60/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 61/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 62/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 63/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 64/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 65/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 66/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 67/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 68/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 69/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 70/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 71/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 72/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 73/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 74/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 75/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 76/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 77/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 78/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 79/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 80/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 81/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 82/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 83/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 84/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 85/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 86/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 87/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 88/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 89/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 90/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 91/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 92/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 93/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 94/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 95/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 96/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 97/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 98/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 99/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 100/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 101/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 102/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 103/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 104/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 105/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 106/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 107/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 108/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 109/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 110/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 111/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 112/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 113/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 114/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 115/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 116/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 117/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 118/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 119/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 120/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 121/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 122/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 123/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 124/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 125/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 126/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 127/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 128/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 129/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 130/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 131/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 132/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 133/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 134/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 135/136
+[1A[1M> Filling the global astrometry matrix: group 1/1, field 136/136
+[1A[1M> Fixing the degrees of freedom
+[1A[1M> Solving the global astrometry matrix...
+[1A
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+
+> WARNING: Significant inaccuracy likely to occur in projection
+
+[1M> 
+[1A 
+----- Astrometric stats (internal) :
+
+[7m                  All detections         |           High S/N           [0m
+[7m           dAXIS1  dAXIS2   chi2   ndets | dAXIS1  dAXIS2   chi2   ndets[0m
+[1M> Making cross-identifications in group 1
+[1AGroup  1:  0.707"  0.498"  8e+02     277   0.177"  0.379" 9.9e+03      21
+[1M> 
+[1A 
+----- Astrometric stats (external):
+
+[7m                  All detections         |           High S/N           [0m
+[7m           dAXIS1  dAXIS2   chi2  nstars | dAXIS1  dAXIS2   chi2  nstars[0m
+Group  1:      0"      0"      0       0       0"      0"      0       0
+[1M> Generating astrometric plots...
+[1A[1M> Initializing the global photometry matrix...
+[1A[1M> Solving the global photometry matrix...
+[1A[1M> 
+[1A 
+----- Photometric clipping:
+
+[1M> Computing photometric stats for group 1 / P1
+[1A[1M> 
+[1A Group  1 / P1  : 0/317 detections removed
+[1M> Initializing the global photometry matrix...
+[1A[1M> Solving the global photometry matrix...
+[1A[1M> 
+[1A 
+----- Photometric stats (internal):
+
+[7m                     All detections     |        High S/N        [0m
+[7m         Instru mag RMS    chi2   ndets | mag RMS    chi2   ndets[0m
+Group  1: P1    2.89e+03 5.2e+09     317      67.2 6.3e+07      24
+[1M> 
+[1A 
+----- Photometric stats (external):
+
+[7m                     All detections     |        High S/N        [0m
+[7m         Instru mag RMS    chi2  nstars | mag RMS    chi2  nstars[0m
+
+[1M> Generating photometric plots...
+[1A[1M> Computing colour shifts in group 1
+[1A[1M> Computing proper motions in group 1
+[1A[1M> Computing proper motions...
+[1A[1M> Generating proper-motion plots...
+[1A[1M> Saving image headers...
+[1A[1M> Saving merged catalog for group 1
+[1A[1M> Cleaning up...
+[1A[1M> 
+[1A> All done (in 38 s: 3.6 fields/s , 1633 detections/s)

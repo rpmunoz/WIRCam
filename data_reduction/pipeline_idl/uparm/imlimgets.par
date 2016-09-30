@@ -1,0 +1,4 @@
+image,s,a,,,,'image name'
+param,s,a,,,,'image parameter to be returned'
+value,s,h,'msk_1189993s_CHIP3.pl',,,'output value of image parameter'
+mode,s,h,'al'
